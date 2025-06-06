@@ -1,5 +1,5 @@
 [package]
-name = "lab_05_webserver"
+name = "Multi_thread"
 version = "0.1.0"
 edition = "2024"
 
